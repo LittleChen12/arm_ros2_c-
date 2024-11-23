@@ -1,0 +1,68 @@
+[0.011s] Invoking command in '/home/zhu/arm/build/my_keyboard_listener': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/zhu/arm/src/my_keyboard_listener -DCMAKE_INSTALL_PREFIX=/home/zhu/arm/install/my_keyboard_listener
+[0.061s] -- The C compiler identification is GNU 11.4.0
+[0.105s] -- The CXX compiler identification is GNU 11.4.0
+[0.111s] -- Detecting C compiler ABI info
+[0.171s] -- Detecting C compiler ABI info - done
+[0.175s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.175s] -- Detecting C compile features
+[0.175s] -- Detecting C compile features - done
+[0.177s] -- Detecting CXX compiler ABI info
+[0.239s] -- Detecting CXX compiler ABI info - done
+[0.245s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.246s] -- Detecting CXX compile features
+[0.246s] -- Detecting CXX compile features - done
+[0.252s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.369s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.471s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.519s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.526s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.534s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.545s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.560s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.604s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.609s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.709s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.732s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.767s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.788s] -- Looking for pthread.h
+[0.860s] -- Looking for pthread.h - found
+[0.860s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.922s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.923s] -- Found Threads: TRUE  
+[0.975s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.047s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.047s] -- Configured cppcheck include dirs: 
+[1.047s] -- Configured cppcheck exclude dirs and/or files: 
+[1.048s] -- Added test 'lint_cmake' to check CMake code style
+[1.049s] -- Added test 'uncrustify' to check C / C++ code style
+[1.049s] -- Configured uncrustify additional arguments: 
+[1.050s] -- Added test 'xmllint' to check XML markup files
+[1.051s] -- Configuring done
+[1.055s] -- Generating done
+[1.056s] -- Build files have been written to: /home/zhu/arm/build/my_keyboard_listener
+[1.062s] Invoked command in '/home/zhu/arm/build/my_keyboard_listener' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/zhu/arm/src/my_keyboard_listener -DCMAKE_INSTALL_PREFIX=/home/zhu/arm/install/my_keyboard_listener
+[1.063s] Invoking command in '/home/zhu/arm/build/my_keyboard_listener': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/zhu/arm/build/my_keyboard_listener -- -j32 -l32
+[1.107s] [ 50%] [32mBuilding CXX object CMakeFiles/keyboard_listener.dir/src/keyboard_listener.cpp.o[0m
+[3.501s] [100%] [32m[1mLinking CXX executable keyboard_listener[0m
+[3.625s] [100%] Built target keyboard_listener
+[3.637s] Invoked command in '/home/zhu/arm/build/my_keyboard_listener' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/zhu/arm/build/my_keyboard_listener -- -j32 -l32
+[3.678s] Invoking command in '/home/zhu/arm/build/my_keyboard_listener': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/zhu/arm/build/my_keyboard_listener
+[3.687s] -- Install configuration: ""
+[3.687s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/lib/my_keyboard_listener/keyboard_listener
+[3.688s] -- Set runtime path of "/home/zhu/arm/install/my_keyboard_listener/lib/my_keyboard_listener/keyboard_listener" to ""
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/ament_index/resource_index/package_run_dependencies/my_keyboard_listener
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/ament_index/resource_index/parent_prefix_path/my_keyboard_listener
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/environment/ament_prefix_path.sh
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/environment/ament_prefix_path.dsv
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/environment/path.sh
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/environment/path.dsv
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/local_setup.bash
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/local_setup.sh
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/local_setup.zsh
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/local_setup.dsv
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/package.dsv
+[3.688s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/ament_index/resource_index/packages/my_keyboard_listener
+[3.689s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/cmake/my_keyboard_listenerConfig.cmake
+[3.689s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/cmake/my_keyboard_listenerConfig-version.cmake
+[3.689s] -- Installing: /home/zhu/arm/install/my_keyboard_listener/share/my_keyboard_listener/package.xml
+[3.690s] Invoked command in '/home/zhu/arm/build/my_keyboard_listener' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/zhu/arm/build/my_keyboard_listener

@@ -1,0 +1,26 @@
+[0.018s] Invoking command in '/home/zhu/arm/build/arm_controler': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/zhu/arm/build/arm_controler -- -j32 -l32
+[0.064s] [35m[1mConsolidate compiler generated dependencies of target arm_controler[0m
+[0.086s] [ 25%] [32mBuilding CXX object CMakeFiles/arm_controler.dir/src/main.cpp.o[0m
+[1.964s] [ 50%] [32m[1mLinking CXX executable arm_controler[0m
+[2.247s] [100%] Built target arm_controler
+[2.259s] Invoked command in '/home/zhu/arm/build/arm_controler' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/zhu/arm/build/arm_controler -- -j32 -l32
+[2.300s] Invoking command in '/home/zhu/arm/build/arm_controler': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/zhu/arm/build/arm_controler
+[2.306s] -- Install configuration: ""
+[2.307s] -- Installing: /home/zhu/arm/install/arm_controler/lib/arm_controler/arm_controler
+[2.309s] -- Set runtime path of "/home/zhu/arm/install/arm_controler/lib/arm_controler/arm_controler" to ""
+[2.309s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/ament_index/resource_index/package_run_dependencies/arm_controler
+[2.309s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/ament_index/resource_index/parent_prefix_path/arm_controler
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/environment/ament_prefix_path.sh
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/environment/ament_prefix_path.dsv
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/environment/path.sh
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/environment/path.dsv
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/local_setup.bash
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/local_setup.sh
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/local_setup.zsh
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/local_setup.dsv
+[2.310s] -- Installing: /home/zhu/arm/install/arm_controler/share/arm_controler/package.dsv
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/ament_index/resource_index/packages/arm_controler
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/cmake/arm_controlerConfig.cmake
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/cmake/arm_controlerConfig-version.cmake
+[2.310s] -- Up-to-date: /home/zhu/arm/install/arm_controler/share/arm_controler/package.xml
+[2.311s] Invoked command in '/home/zhu/arm/build/arm_controler' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/zhu/ws_moveit2/install/moveit_configs_utils:/home/zhu/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/zhu/arm/build/arm_controler

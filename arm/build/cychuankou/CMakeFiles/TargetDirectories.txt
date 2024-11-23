@@ -1,0 +1,10 @@
+/home/zhu/arm/build/cychuankou/CMakeFiles/uninstall.dir
+/home/zhu/arm/build/cychuankou/CMakeFiles/cychuankou_uninstall.dir
+/home/zhu/arm/build/cychuankou/CMakeFiles/lis.dir
+/home/zhu/arm/build/cychuankou/CMakeFiles/test.dir
+/home/zhu/arm/build/cychuankou/CMakeFiles/edit_cache.dir
+/home/zhu/arm/build/cychuankou/CMakeFiles/rebuild_cache.dir
+/home/zhu/arm/build/cychuankou/CMakeFiles/list_install_components.dir
+/home/zhu/arm/build/cychuankou/CMakeFiles/install.dir
+/home/zhu/arm/build/cychuankou/CMakeFiles/install/local.dir
+/home/zhu/arm/build/cychuankou/CMakeFiles/install/strip.dir

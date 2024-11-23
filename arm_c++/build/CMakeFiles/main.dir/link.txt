@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/src/RS485Reader.cpp.o CMakeFiles/main.dir/src/controler.cpp.o CMakeFiles/main.dir/src/gamepad_reader.cpp.o CMakeFiles/main.dir/src/serial_reader.cpp.o -o main  /usr/lib/aarch64-linux-gnu/libSDL2.so 

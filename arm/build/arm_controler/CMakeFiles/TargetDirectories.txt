@@ -1,0 +1,10 @@
+/home/zhu/arm/build/arm_controler/CMakeFiles/uninstall.dir
+/home/zhu/arm/build/arm_controler/CMakeFiles/arm_controler_uninstall.dir
+/home/zhu/arm/build/arm_controler/CMakeFiles/arm_controler.dir
+/home/zhu/arm/build/arm_controler/CMakeFiles/test.dir
+/home/zhu/arm/build/arm_controler/CMakeFiles/edit_cache.dir
+/home/zhu/arm/build/arm_controler/CMakeFiles/rebuild_cache.dir
+/home/zhu/arm/build/arm_controler/CMakeFiles/list_install_components.dir
+/home/zhu/arm/build/arm_controler/CMakeFiles/install.dir
+/home/zhu/arm/build/arm_controler/CMakeFiles/install/local.dir
+/home/zhu/arm/build/arm_controler/CMakeFiles/install/strip.dir

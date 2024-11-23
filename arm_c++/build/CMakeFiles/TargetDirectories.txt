@@ -1,0 +1,3 @@
+/home/radxa/桌面/arm_c++/build/CMakeFiles/main.dir
+/home/radxa/桌面/arm_c++/build/CMakeFiles/edit_cache.dir
+/home/radxa/桌面/arm_c++/build/CMakeFiles/rebuild_cache.dir
